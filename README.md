@@ -1,4 +1,4 @@
-# precifica-das-casas
+# precificação-das-casas
 # Predição de Preço de Casas com o Ames Housing Dataset
 
 Este projeto utiliza técnicas de regressão para prever o preço de casas com base em diversas características. Foram aplicadas regressão linear, Ridge e Lasso, com análise gráfica, avaliação de métricas e engenharia de atributos.
